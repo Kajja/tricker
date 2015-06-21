@@ -1,0 +1,1 @@
+exports.Rules = require('./lib/Rules');
