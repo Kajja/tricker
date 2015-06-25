@@ -43,4 +43,4 @@ or
 
 About the implementation
 ------------------------
-The game is implemented using the mulitgame platform, which runs on node.js.
+The game is implemented using the [mulitgame](https://github.com/Kajja/multigame) platform, which runs on node.js.
