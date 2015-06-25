@@ -16,16 +16,18 @@ How points are calculated
 
 Knower | Guesser | Points
 -------|---------|-------
-In target | In target | Knower: 0, Guesser: 1
-In target | Wrong ring | Knower: 1, Guesser: -1
-In target | On mat | Knower: 1, Guesser: 0
-Wrong ring | In target | Knower: -1, Guesser: 1
-Wrong ring | Wrong ring (same as Knower) | Knower: 0, Guesser: -1
+In target | In target | Knower:  0, Guesser:  1
+In target | Wrong ring | Knower:  1, Guesser: -1
+In target | On mat | Knower:  1, Guesser:  0
+Wrong ring | In target | Knower: -1, Guesser:  1
+Wrong ring | Wrong ring (same as Knower) | Knower:  0, Guesser: -1
 Wrong ring | Wrong ring (different than Knower) | Knower: -1, Guesser: -1
-Wrong ring | On mat | Knower: -1, Guesser: 0
-On mat | In target | Knower: 0, Guesser: 1
-On mat | Wrong ring | Knower: 0, Guesser: -1
-On mat | On mat | Knower: 0, Guesser: 0
+Wrong ring | On mat | Knower: -1, Guesser:  0
+On mat | In target | Knower:  0, Guesser:  1
+On mat | Wrong ring | Knower:  0, Guesser: -1
+On mat | On mat | Knower:  0, Guesser:  0
+
+So, you can only score points if you are in the target ring, but you can get minus points if you are somewhere else.
 
 
 When has someone won?
