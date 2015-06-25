@@ -34,7 +34,7 @@ When has someone won?
 ---------------------
 A match is over if:
 
-* one of the players has 3 points
+* one of the players has 2 points
 
 or
 

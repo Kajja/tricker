@@ -1,6 +1,6 @@
 {
   "name": "tricker",
-  "version": "0.2.8",
+  "version": "0.2.10",
   "description": "A simple multiplayer game, based on the multigame platform",
   "main": "index.js",
   "scripts": {
