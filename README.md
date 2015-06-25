@@ -15,7 +15,7 @@ How points are calculated
 -------------------------
 
 Knower | Guesser | Points
--------------------------
+-------|---------|-------
 In target | In target | Knower: 0, Guesser: 1
 In target | Wrong ring | Knower: 1, Guesser: -1
 In target | On mat | Knower: 1, Guesser: 0
@@ -31,9 +31,12 @@ On mat | On mat | Knower: 0, Guesser: 0
 When has someone won?
 ---------------------
 A match is over if:
-* one of the players has gotten 3 points
+
+* one of the players has 3 points
+
 or
-* one of the players has gotten -2 points
+
+* one of the players has -2 points
 
 
 About the implementation
