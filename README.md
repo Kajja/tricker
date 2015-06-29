@@ -27,7 +27,7 @@ On mat | In target | Knower: 0, Guesser: 1
 On mat | Wrong ring | Knower: 0, Guesser: -1
 On mat | On mat | Knower: 0, Guesser: 0
 
-So, you can only score points if you are in the target ring, but you can get minus points if you are somewhere else.
+So, you can only score points if you are in the target ring, but you can get minus points if you are in another ring. On the mat you don't get any points, neither plus or minus.
 
 
 When has someone won?
