@@ -52,8 +52,13 @@ and in the client code:
 ```html
 <script src="/socket.io/socket.io.js"></script>
 <script src="<your directory>/gameProxy.js"></script>
+<script src="<your directory>/jquery.min.js"></script>
 <script src="<your directory>/tricker_client.js"></script>
 ```
-The first two script are for the mulitgame platform.
+The first two script are for the multigame platform.
 
 You then probably need to create a ui with game controls like a start button.
+
+TODO
+----
+* Remove jQuery dependency
