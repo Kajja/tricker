@@ -1,8 +1,9 @@
 {
   "name": "tricker",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "description": "A simple multiplayer game, based on the multigame platform",
   "main": "index.js",
+  "repository": "git://github.com/Kajja/tricker",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
