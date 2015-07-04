@@ -1,6 +1,6 @@
 {
   "name": "tricker",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "description": "A simple multiplayer game, based on the multigame platform",
   "main": "index.js",
   "repository": "git://github.com/Kajja/tricker",
