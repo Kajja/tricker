@@ -1,11 +1,11 @@
 Tricker
 =======
 
-Tricker is a two player network game where you try to trick you opponent to score points.
+Tricker is a two player network game where you try trick your opponent to score points.
 
-In a game round, one of the player is the "knower" and the other is the "guesser". There are three small blue rings in the playing field. In every round, one of them is the target, that is, this is where you should stand when the time is out to get points. 
+In a game round, one of the players is the "knower" and the other is the "guesser". There are three small blue rings in the playing field. In every round, one of them is the target, that is, this is where you should stand when the time is out to get points. 
 
-Only the "knower" knows which of the rings is the target, it is marked with a yellow star. The "guesser" has to figure out which one it is or just take a chance.
+Only the "knower" knows which of the rings is the target, it is marked with a yellow star for the knower. The "guesser" has to figure out which one it is or just take a chance.
 
 In the next round, the roles are reversed. The "knower" is now the "guesser" and vice versa.
 
