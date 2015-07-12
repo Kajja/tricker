@@ -55,9 +55,9 @@ and in the client code:
 <script src="<your directory>/jquery.min.js"></script>
 <script src="<your directory>/tricker_client.js"></script>
 ```
-The first two script are for the multigame platform.
+The first two script are for the multigame platform. The tricker_client.js file can be found under ./lib.
 
-You then probably need to create a ui with game controls like a start button.
+You then need to create a ui with game controls like a start button.
 
 TODO
 ----
